@@ -3,7 +3,7 @@ import webbrowser as w
 import requests
 from bs4 import BeautifulSoup
 import time
-//import tkinter
+
 import random
 import wikipedia as wk
 import re
